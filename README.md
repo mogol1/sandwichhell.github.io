@@ -1,4 +1,2 @@
 # sandwichhell.github.io
-Personal Website
-
-This repository contains the source for my website, [thatsandwichcangotohell.com](http://thatsandwichcangotohell.com).
+Visit [thatsandwichcangotohell.com](http://thatsandwichcangotohell.com) for more info.
